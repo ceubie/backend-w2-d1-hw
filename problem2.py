@@ -7,7 +7,6 @@
 
 
 basketball = True
-hours = 0
 
 while basketball:
     athlete = input("Do you want to keep playing baksetball? (yes or no)  ")
@@ -24,5 +23,5 @@ x = 0
 while x <= 4:
     print('The number is less than 5', 'iteration', x)
     x += 1
-    
+
 #---------------------------------------------------------------------
